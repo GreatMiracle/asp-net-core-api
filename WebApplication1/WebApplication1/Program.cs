@@ -2,10 +2,13 @@
 using DotNetEnv;
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Core.Entities;
+using WebApplication1.Core.Exceptions;
 using WebApplication1.Infrastructure.Data;
 using WebApplication1.Infrastructure.Repositories;
-using WebApplication1.Services.Impl;
+using WebApplication1.Infrastructure.Repositories.Impl;
 using WebApplication1.Services;
+using WebApplication1.Services.Impl;
+using WebApplication1.Validators;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -46,9 +49,10 @@ builder.Services.AddDbContext<WalksDbContext>(options =>
 //--comment vì cái này chạy vào appsetting.Development.json mà tôi không muốn hard code vào đó rất nguy hiểm
 //options.UseNpgsql(builder.Configuration.GetConnectionString("WalksConnectionString1"))); 
 
-// Đăng ký Repository và Service
-builder.Services.AddScoped<IRepository<Region>, RegionRepository>();
-builder.Services.AddScoped<IRegionService, RegionService>();
+// Đăng ký Repository, Service 
+builder.Services.AddApplicationServices();
+
+builder.Services.AddFluentValidationServices();
 
 var app = builder.Build();
 
