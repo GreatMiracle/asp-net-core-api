@@ -7,6 +7,7 @@ using WebApplication1.Core.Entities;
 using WebApplication1.DTOs.Request;
 using WebApplication1.DTOs.Response;
 using WebApplication1.Services;
+using static WebApplication1.Validators.CustomActionFilters;
 
 namespace WebApplication1.Controllers
 {
@@ -31,6 +32,7 @@ namespace WebApplication1.Controllers
 
         [HttpPost]
         [Route("/search")]
+        //[ValidateModel] // Áp dụng Custom Action Filter
         public async Task<IActionResult> SearchRegion([FromBody] RegionSearchRequest request)
         {
             IEnumerable<SearchRegionResponse> regions = await

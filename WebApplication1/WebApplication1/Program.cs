@@ -3,12 +3,16 @@ using DotNetEnv;
 using Microsoft.EntityFrameworkCore;
 using WebApplication1.Core.Entities;
 using WebApplication1.Core.Exceptions;
+using WebApplication1.Filters;
 using WebApplication1.Infrastructure.Data;
 using WebApplication1.Infrastructure.Repositories;
 using WebApplication1.Infrastructure.Repositories.Impl;
 using WebApplication1.Services;
 using WebApplication1.Services.Impl;
+using WebApplication1.Services.Mappings;
 using WebApplication1.Validators;
+using Microsoft.Extensions.Configuration; // Thêm using này
+using WebApplication1.Filters; // Thêm using này cho JwtConfigure
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -18,6 +22,8 @@ builder.Configuration
     .AddJsonFile($"appsettings.{builder.Environment.EnvironmentName}.json", optional: true, reloadOnChange: true);
 
 Env.Load();
+var key = Environment.GetEnvironmentVariable("AES_KEY");
+var iv = Environment.GetEnvironmentVariable("AES_IV");
 
 // Kiểm tra và in ra giá trị các biến môi trường
 Console.WriteLine($"NOW_ENVIRONMENT: {builder.Environment.EnvironmentName}");
@@ -46,13 +52,30 @@ builder.Services.AddDbContext<WalksDbContext>(options =>
 
     options.UseNpgsql(connectionString);
 });
+
+builder.Services.AddDbContext<AuthWalksDbContext>(options =>
+options.UseNpgsql(builder.Configuration.GetConnectionString("AuthWalksConnectionString")));
+
 //--comment vì cái này chạy vào appsetting.Development.json mà tôi không muốn hard code vào đó rất nguy hiểm
 //options.UseNpgsql(builder.Configuration.GetConnectionString("WalksConnectionString1"))); 
 
 // Đăng ký Repository, Service 
 builder.Services.AddApplicationServices();
 
+// Đăng ký Validate request Api
 builder.Services.AddFluentValidationServices();
+
+// Đăng ký AutoMapper và quét các lớp Profile
+builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
+
+// Gọi phương thức ConfigureServices từ JwtConfigure và truyền Configuration
+JwtConfigure.ConfigureServices(builder.Services, builder.Configuration);
+
+// Sử dụng IdentityConfiguration để cấu hình Identity
+builder.Services.ConfigureIdentity();
+
+// Cấu hình Authentication và các dịch vụ khác
+builder.Services.AddAuthentication();
 
 var app = builder.Build();
 
@@ -65,6 +88,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+app.UseAuthentication();
 app.UseAuthorization();
 
 app.MapControllers();

@@ -11,7 +11,7 @@ using WebApplication1.Infrastructure.Data;
 
 namespace WebApplication1.Infrastructure.Repositories.Impl
 {
-    public class RegionRepository : IRepository<RegionRequestBase, Region>, IRegionRepository
+    public class RegionRepository : IRepository<RequestBase, Region>, IRegionRepository
     {
 
         private readonly WalksDbContext _context;
@@ -84,46 +84,32 @@ namespace WebApplication1.Infrastructure.Repositories.Impl
             return await _context.Regions.ToListAsync();
         }
 
-        public Task<IEnumerable<Region>> GetByConditionAsync(Func<RegionRequestBase, bool> predicate)
+        public Task<IEnumerable<Region>> GetByConditionAsync(Func<RequestBase, bool> predicate)
         {
             throw new NotImplementedException();
         }
 
-        public Task<Region> GetByIdAsync(int id)
+        public async Task<Region?> GetByIdAsync(Guid id)
         {
-            throw new NotImplementedException();
+            return await _context.Regions.FirstOrDefaultAsync(x => x.Id == id);
         }
 
-        public async Task<Region> UpdateAsync(Guid id, RegionRequestBase request)
+        public async Task<Region> UpdateAsync(Guid id, Region region)
         {
-            var region = await _context.Regions.FirstOrDefaultAsync(x => x.Id == id);
-
-            // Kiểm tra nếu khu vực không tồn tại
-            if (region == null)
-            {
-                return null; // Trả về null để controller có thể xử lý
-            }
-
-            // Cập nhật thông tin khu vực
-            // Bạn có thể cast entity về kiểu UpdateRegionRequest nếu cần
-            if (request is UpdateRegionRequest updateRequest)
-            {
-                region.Code = updateRequest.Code;
-                region.Name = updateRequest.Name;
-                region.ImageUrl = updateRequest.RegionImageUrl;
-            }
-
             try
             {
+                // Đảm bảo rằng đối tượng region đang được tracking bởi DbContext
+                _context.Regions.Update(region);
+
                 // Lưu thay đổi
                 await _context.SaveChangesAsync();
+
+                return region; 
             }
             catch (DbUpdateException ex)
             {
                 throw new Exception("Có lỗi xảy ra khi update thông tin Regionc. Vui lòng thử lại sau.");
             }
-
-            return region;
         }
 
         public async Task<int> ExecuteCustomQueryAsync()

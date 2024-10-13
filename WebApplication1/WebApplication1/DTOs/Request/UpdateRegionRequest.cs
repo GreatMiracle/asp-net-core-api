@@ -2,7 +2,7 @@
 
 namespace WebApplication1.DTOs.Request
 {
-    public class UpdateRegionRequest : RegionRequestBase
+    public class UpdateRegionRequest : RequestBase
     {
         [Required(ErrorMessage = "Code is required.")]
         [StringLength(20, ErrorMessage = "Code cannot be longer than 10 characters.")]

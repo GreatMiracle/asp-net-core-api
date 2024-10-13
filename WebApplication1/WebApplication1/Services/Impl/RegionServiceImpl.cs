@@ -1,4 +1,6 @@
-﻿using Azure.Core;
+﻿using AutoMapper;
+using Azure.Core;
+using Microsoft.EntityFrameworkCore;
 using System.Web.Mvc;
 using WebApplication1.Core.Entities;
 using WebApplication1.DTOs.Request;
@@ -9,15 +11,17 @@ using WebApplication1.Services.Converter;
 
 namespace WebApplication1.Services.Impl
 {
-    public class RegionServiceImpl : IRegionService ,IWalkService
+    public class RegionServiceImpl : IRegionService
     {
-        private readonly IRepository<RegionRequestBase, Region> _iRepository;
+        private readonly IRepository<RequestBase, Region> _iRepository;
         private readonly IRegionRepository _regionRepository;
+        private readonly IMapper _mapper;
 
-        public RegionServiceImpl(IRepository<RegionRequestBase, Region> iRepository, IRegionRepository regionRepository)
+        public RegionServiceImpl(IRepository<RequestBase, Region> iRepository, IRegionRepository regionRepository, IMapper mapper)
         {
             _iRepository = iRepository;
             _regionRepository = regionRepository;
+            _mapper = mapper;
         }
         public async Task<IEnumerable<Region>> GetAllRegions()
         {
@@ -60,7 +64,10 @@ namespace WebApplication1.Services.Impl
             var region = await _regionRepository.DetailRegion(id);
 
             // Mapping domain model to DTO
-            var regionDTO = RegionConverter.ConvertRegionToDetailRegionDTO(region);
+            //var regionDTO = RegionConverter.ConvertRegionToDetailRegionDTO(region);
+
+            var regionDTO = _mapper.Map<DetailRegionResponse>(region);
+
             return regionDTO;
         }
 
@@ -83,7 +90,19 @@ namespace WebApplication1.Services.Impl
 
         public async Task<DetailRegionResponse> UpdateRegion(Guid id, UpdateRegionRequest request)
         {
-            Region region = await _iRepository.UpdateAsync(id, request);
+            var regionIsExit = await _iRepository.GetByIdAsync(id);
+
+            // Kiểm tra nếu khu vực không tồn tại
+            if (regionIsExit == null)
+            {
+                return null; // Trả về null để controller có thể xử lý
+            }
+
+            regionIsExit.Code = request.Code;
+            regionIsExit.Name = request.Name;
+            regionIsExit.ImageUrl = request.RegionImageUrl;
+
+            Region region = await _iRepository.UpdateAsync(id, regionIsExit);
             return new DetailRegionResponse
             {
                 Id = region.Id,

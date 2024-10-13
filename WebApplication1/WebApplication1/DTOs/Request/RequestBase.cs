@@ -1,6 +1,6 @@
 ﻿namespace WebApplication1.DTOs.Request
 {
-    public abstract class RegionRequestBase
+    public abstract class RequestBase
     {
     }
 }

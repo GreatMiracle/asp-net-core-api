@@ -10,3 +10,17 @@ check install DotEnv:
 Install-Package DotNetEnv
 
 ---------------------------------------
+FluebtValidation
+AutoMapper
+Install-Package Microsoft.AspNetCore.Authentication.JwtBearer
+
+Microsoft.AspNetCore.Authentication.JwtBearer
+Microsoft.IdentityModel.Tokens
+System.IdentityModel.Tokens.Jwt
+Microsoft.AspNetCore.Identity.EntityFrameworkCore
+
+
+-------------------------------------------
+
+Add-Migration "CreatingAuthDatabase" -Context "AuthWalksDbContext" 
+Update-Database -Context "AuthWalksDbContext"

@@ -12,12 +12,15 @@ namespace WebApplication1.Core.Exceptions
         public static void AddApplicationServices(this IServiceCollection services)
         {
             // Đăng ký Repository
-            services.AddScoped<IRepository<RegionRequestBase, Region>, RegionRepository>();
+            services.AddScoped<IRepository<RequestBase, Region>, RegionRepository>();
+            services.AddScoped<IRepository<RequestBase, Walk>, WalkRepository>();
+
             services.AddScoped<IRegionRepository, RegionRepository>();
+            services.AddScoped<IWalkRepository, WalkRepository>();
 
             // Đăng ký Service
             services.AddScoped<IRegionService, RegionServiceImpl>();
-            services.AddScoped<IWalkService, RegionServiceImpl>();
+            services.AddScoped<IWalkService, WalkServiceImpl>();
         }
     }
 }
