@@ -1,13 +1,22 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
 using Microsoft.IdentityModel.Tokens;
+using System.Reflection.PortableExecutable;
 using System.Text;
+using static System.Net.WebRequestMethods;
 namespace WebApplication1.Filters
 {
     public static class JwtConfigure
     {
-        public static void ConfigureServices(IServiceCollection services, IConfiguration configuration) // Thêm IConfiguration vào đây
+
+           /* Khi một JWT token được truyền vào ứng dụng(thông qua header của yêu cầu HTTP), 
+            ASP.NET Core sẽ sử dụng các tham số cấu hình này để xác thực token.
+            Nếu tất cả các kiểm tra này đều thành công, 
+            ASP.NET Core sẽ giải mã token và lưu trữ thông tin claims(bao gồm cả vai trò) trong đối tượng User, 
+            mà bạn có thể truy cập trong các controller hoặc middleware của ứng dụng.*/
+
+        public static void ConfigureJWTServices(IServiceCollection services, IConfiguration configuration)
         {
-            var jwtSettings = configuration.GetSection("JwtSettings"); // Sử dụng configuration
+            var jwtSettings = configuration.GetSection("JwtSettings"); 
 
             services.AddAuthentication(options =>
             {

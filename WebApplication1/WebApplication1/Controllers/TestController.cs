@@ -10,6 +10,8 @@ namespace WebApplication1.Controllers
     public class TestController : ControllerBase
     {
         [HttpGet("test-encryption")]
+        //[Authorize(Roles = "Reader")]
+        [Authorize(Roles = "Writer,Reader")]
         public IActionResult TestEncryption()
         {
             string originalText = "your-sensitive-data"; // Dữ liệu cần mã hóa

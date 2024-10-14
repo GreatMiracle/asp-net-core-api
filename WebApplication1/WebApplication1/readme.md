@@ -22,5 +22,11 @@ Microsoft.AspNetCore.Identity.EntityFrameworkCore
 
 -------------------------------------------
 
-Add-Migration "CreatingAuthDatabase" -Context "AuthWalksDbContext" 
+Add-Migration "CreatingAuthDatabaseCompany" -Context "AuthWalksDbContext" 
 Update-Database -Context "AuthWalksDbContext"
+
+
+Add-Migration "CreatingWalkDatabaseCompany" -Context "WalksDbContext" 
+Update-Database -Context "WalksDbContext"
+
+ Add-Migration "CreatTbl Image of DB Walk" -Context "WalksDbContext"

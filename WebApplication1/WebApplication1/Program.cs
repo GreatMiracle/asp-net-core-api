@@ -12,7 +12,10 @@ using WebApplication1.Services.Impl;
 using WebApplication1.Services.Mappings;
 using WebApplication1.Validators;
 using Microsoft.Extensions.Configuration; // Thêm using này
-using WebApplication1.Filters; // Thêm using này cho JwtConfigure
+using WebApplication1.Filters;
+using WebApplication1.Core.SwaggerConfig;
+using Microsoft.Extensions.FileProviders;
+using OfficeOpenXml; // Thêm using này cho JwtConfigure
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -34,12 +37,21 @@ Console.WriteLine($"DB_PASSWORD: {Environment.GetEnvironmentVariable("DB_PASSWOR
 Console.WriteLine($"DB_DATABASE: {Environment.GetEnvironmentVariable("DB_DATABASE")}");
 Console.WriteLine($"WALKS_CONNECTION_STRING: {builder.Configuration.GetConnectionString("WalksConnectionString")}");
 
-// Add services to the container.
 
+// Thiết lập LicenseContext cho EPPlus
+ExcelPackage.LicenseContext = LicenseContext.NonCommercial; // Hoặc LicenseContext.Commercial nếu bạn có giấy phép thương mại
+
+// Add services to the container.
 builder.Services.AddControllers();
+
+// Add url file img.
+builder.Services.AddHttpContextAccessor();
+
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();
-builder.Services.AddSwaggerGen();
+//builder.Services.AddSwaggerGen();
+// Cấu hình Swagger
+SwaggerConfig.AddSwaggerGenServices(builder.Services);
 
 builder.Services.AddDbContext<WalksDbContext>(options =>
 {
@@ -69,7 +81,7 @@ builder.Services.AddFluentValidationServices();
 builder.Services.AddAutoMapper(typeof(AutoMapperProfiles));
 
 // Gọi phương thức ConfigureServices từ JwtConfigure và truyền Configuration
-JwtConfigure.ConfigureServices(builder.Services, builder.Configuration);
+JwtConfigure.ConfigureJWTServices(builder.Services, builder.Configuration);
 
 // Sử dụng IdentityConfiguration để cấu hình Identity
 builder.Services.ConfigureIdentity();
@@ -78,6 +90,15 @@ builder.Services.ConfigureIdentity();
 builder.Services.AddAuthentication();
 
 var app = builder.Build();
+
+
+// Bật middleware để phục vụ các tệp tĩnh
+app.UseStaticFiles(new StaticFileOptions
+{
+    FileProvider = new PhysicalFileProvider(
+        Path.Combine(Directory.GetCurrentDirectory(), "ImageUp")),
+    RequestPath = "/Images"
+});
 
 // Configure the HTTP request pipeline.
 if (app.Environment.IsDevelopment())

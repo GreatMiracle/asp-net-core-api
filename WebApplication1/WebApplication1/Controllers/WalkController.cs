@@ -1,5 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using System.Drawing;
 using WebApplication1.Core.Entities;
+using WebApplication1.Core.Utils;
 using WebApplication1.DTOs.Request;
 using WebApplication1.DTOs.Response;
 using WebApplication1.Infrastructure.Repositories;
@@ -67,7 +69,7 @@ namespace WebApplication1.Controllers
 
         [HttpGet]
         [Route("/search")]
-        public async Task<ActionResult<IEnumerable<DetailWalkResponse>>> GetAllWorks(
+        public async Task<ActionResult<IEnumerable<DetailWalkResponse>>> GetAllWalks(
         [FromQuery] string? filterOn = null,
         [FromQuery] string? filterQuery = null, 
         [FromQuery] string? sortBy = "NameWalk",
@@ -78,6 +80,43 @@ namespace WebApplication1.Controllers
         {
             var works = await _iwalkService.SearchWalks(filterOn, filterQuery, sortBy, direction, pageNumber, pageSize);
             return Ok(works);
+        }
+
+        [HttpGet("export")]
+        public async Task<IActionResult> ExportToExcel(
+            [FromQuery] string? filterOn = null,
+            [FromQuery] string? filterQuery = null,
+            [FromQuery] string? sortBy = "NameWalk",
+            [FromQuery] string? direction = "asc"
+        )
+        {
+            var walks = await _iwalkService.SearchWalks(filterOn, filterQuery, sortBy, direction, 1, 99999999); // Lấy tất cả dữ liệu
+
+            // Sử dụng ExcelExportHelper để tạo tệp Excel
+            var excelHelper = new ExcelExportHelper("Walks");
+
+            // Đặt tiêu đề cho các cột với định dạng
+            excelHelper.AddHeader(new[] { "ID", "Name", "Length (km)", "Difficulty", "Region" },
+                                  Color.LightBlue, Color.Black, FontStyle.Bold);
+
+            // Điền dữ liệu
+            for (int i = 0; i < walks.Count(); i++)
+            {
+                var walk = walks.ElementAt(i);
+                excelHelper.AddRow(new object[]
+                {
+                    walk.Id,
+                    walk.Name,
+                    walk.Length,
+                    walk.Difficulty?.Name.ToString(),
+                    walk.Region?.Code
+                        }, i + 2); // Bắt đầu từ dòng thứ 2 vì dòng 1 là tiêu đề
+            }
+
+            // Trả về tệp Excel
+            var stream = excelHelper.GetExcelStream();
+            var fileName = $"WalkData_{DateTime.Now:yyyyMMddHHmmss}.xlsx";
+            return File(stream, "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet", fileName);
         }
 
     }
