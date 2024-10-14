@@ -15,10 +15,20 @@ using Microsoft.Extensions.Configuration; // Thêm using này
 using WebApplication1.Filters;
 using WebApplication1.Core.SwaggerConfig;
 using Microsoft.Extensions.FileProviders;
-using OfficeOpenXml; // Thêm using này cho JwtConfigure
+using OfficeOpenXml;
+using WebApplication1.Core.Configs; // Thêm using này cho JwtConfigure
 
 var builder = WebApplication.CreateBuilder(args);
 
+builder.Services.AddCors(options =>
+{
+    options.AddPolicy("AllowAllOrigins", builder =>
+    {
+        builder.AllowAnyOrigin()
+               .AllowAnyMethod()
+               .AllowAnyHeader();
+    });
+});
 // Nếu bạn có tệp cấu hình khác, hãy chắc chắn rằng nó được nạp đúng cách.
 builder.Configuration
     .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
@@ -89,8 +99,13 @@ builder.Services.ConfigureIdentity();
 // Cấu hình Authentication và các dịch vụ khác
 builder.Services.AddAuthentication();
 
+// Cấu hình Google OAuth2 Authentication
+GgOAuth2Config.AddGgOAuth2Config(builder.Services, builder.Configuration);
+
 var app = builder.Build();
 
+// Sử dụng CORS cho toàn bộ ứng dụng hoặc chỉ một phần
+app.UseCors("AllowAllOrigins");
 
 // Bật middleware để phục vụ các tệp tĩnh
 app.UseStaticFiles(new StaticFileOptions
@@ -104,7 +119,17 @@ app.UseStaticFiles(new StaticFileOptions
 if (app.Environment.IsDevelopment())
 {
     app.UseSwagger();
-    app.UseSwaggerUI();
+    //app.UseSwaggerUI();
+    app.UseSwaggerUI(options =>
+    {
+        // Đường dẫn cho Swagger UI
+        options.SwaggerEndpoint("/swagger/v1/swagger.json", "API V1");
+
+        // Cấu hình cho OAuth2 để đăng nhập qua Google
+        options.OAuthClientId(builder.Configuration["Authentication:Google:ClientId"]);
+        options.OAuthClientSecret(builder.Configuration["Authentication:Google:ClientSecret"]);
+        options.OAuthAppName("Google OAuth2 Login");
+    });
 }
 
 app.UseHttpsRedirection();
