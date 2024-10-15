@@ -525,3 +525,13 @@ C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debu
 C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Console.dll
 C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
 C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Core\ringed-hearth-437404-k9-24c61ecd5c9f.json

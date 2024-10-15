@@ -18,15 +18,23 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost]
-        public async Task<IActionResult> HandleChatbotRequest([FromBody] DialogflowRequest request)
+        public async Task<IActionResult> HandleChatbotRequest([FromBody] ChatRequest request)
         {
-            var responseText = await _dialogflowService.DetectIntentAsync(request.ResponseId, request.QueryResult.QueryText);
-            var response = new DialogflowResponse
+            if (string.IsNullOrEmpty(request.Question))
             {
-                FulfillmentText = responseText
-            };
+                return BadRequest("Question cannot be empty.");
+            }
+            var sessionId = Guid.NewGuid().ToString();  // Tạo một session ID ngẫu nhiên cho mỗi câu hỏi
+            var response = await _dialogflowService.DetectIntentAsync(sessionId, request.Question);
+            return Ok(new { Answer = response });
 
-            return Ok(response);
+            //var responseText = await _dialogflowService.DetectIntentAsync(request.ResponseId, request.QueryResult.QueryText);
+            //var response = new DialogflowResponse
+            //{
+            //    FulfillmentText = responseText
+            //};
+
+            //return Ok(response);
         }
 
     }

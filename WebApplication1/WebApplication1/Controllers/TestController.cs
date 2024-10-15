@@ -22,7 +22,7 @@ namespace WebApplication1.Controllers
         [Authorize(Roles = "Writer,Reader")]
         public IActionResult TestEncryption(string text)
         {
-            throw new CustomException("Resource not found", 404);
+            //throw new CustomException("Resource not found", 404);
             //throw new Exception("This is a test exception.");
             //_logger.LogInformation("test-encryption action method was invoked.");
 

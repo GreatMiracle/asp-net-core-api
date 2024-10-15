@@ -28,6 +28,7 @@ namespace WebApplication1.Core.Configs
             services.AddScoped<IEmailService, EmailService>();
             services.AddScoped<IThirdPartyApiService, ThirdPartyApiServiceImpl>();
             services.AddScoped<ICountryService, CountryServiceImpl>();
+            services.AddScoped<IDialogflowService, DialogflowService>();
 
         }
     }
