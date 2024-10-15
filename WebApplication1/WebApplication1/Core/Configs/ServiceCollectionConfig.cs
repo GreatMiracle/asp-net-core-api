@@ -5,9 +5,9 @@ using WebApplication1.Services.Impl;
 using WebApplication1.Services;
 using WebApplication1.DTOs.Request;
 
-namespace WebApplication1.Core.Exceptions
+namespace WebApplication1.Core.Configs
 {
-    public static class ServiceCollectionExtensions
+    public static class ServiceCollectionConfig
     {
         public static void AddApplicationServices(this IServiceCollection services)
         {
@@ -26,6 +26,8 @@ namespace WebApplication1.Core.Exceptions
             services.AddScoped<IUploadImgService, UploadImgServiceImpl>();
             services.AddScoped<IGChatService, GChatService>();
             services.AddScoped<IEmailService, EmailService>();
+            services.AddScoped<IThirdPartyApiService, ThirdPartyApiServiceImpl>();
+            services.AddScoped<ICountryService, CountryServiceImpl>();
 
         }
     }

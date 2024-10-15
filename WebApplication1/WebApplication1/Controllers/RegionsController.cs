@@ -1,4 +1,5 @@
 ﻿using Azure.Core;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
@@ -21,6 +22,7 @@ namespace WebApplication1.Controllers
             _regionService = regionService;
         }
 
+        //[Authorize(Roles = "Writer,Reader")]
         [HttpGet]
         public async Task<IActionResult> GetAll()
         {

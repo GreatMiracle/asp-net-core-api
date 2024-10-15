@@ -510,3 +510,18 @@ D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebAppl
 D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
 D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
 D:\Documents\LEARN DEVOPS\learn-asp-net\asp-net-core-api\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.Google.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\System.Security.Permissions.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.AspNetCore.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+C:\Users\admin\source\repos\improve-NET\WebApplication1\WebApplication1\bin\Debug\net8.0\Serilog.Sinks.File.dll

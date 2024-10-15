@@ -29,11 +29,11 @@ namespace WebApplication1.Controllers
         }
 
         [HttpPost("send/email")]
-        public async Task<IActionResult> SendEmail()
+        public async Task<IActionResult> SendEmail(string toEmail)
         {
             // Logic hủy yêu cầu SR
             // Sau khi hủy, gửi email thông báo
-            await _emailService.SendEmailAsync("davidkambomoi@gmail.com", "Request Termination", "Your SR has been terminated.");
+            await _emailService.SendEmailAsync(toEmail, "Request Termination", "Your SR has been terminated.");
             return Ok();
         }
 

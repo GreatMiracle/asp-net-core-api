@@ -3,8 +3,144 @@
   "WorkspaceRootPath": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\regionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\regionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\countryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\countryserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\icountryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\thirdpartyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\thirdpartyapicontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\countrydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\clientconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\clientconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\servicecollectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\servicecollectionconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\thirdpartyapiserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\thirdpartyapiserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\middleware\\jiraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\jiraservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\ithirdpartyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\ithirdpartyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\yourdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\yourdatatype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\filters\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\ggoauth2config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\ggoauth2config.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\middleware\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\unauthorizedexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\middleware\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\customexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\middleware\\exceptionhandlermiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\loggingconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\srcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\srcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\gchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\gchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\filters\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\infrastructure\\utils\\propertyvaluehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\infrastructure\\utils\\propertyvaluehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\dialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\dialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\walkcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,10 +149,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\infrastructure\\repositories\\impl\\walkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\infrastructure\\repositories\\impl\\walkrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\utils\\excelexporthelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -42,10 +174,6 @@
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\admin\\.nuget\\packages\\epplus\\7.4.1\\readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\dialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\dialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\idialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\idialogflowservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -62,32 +190,12 @@
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\request\\dialogflowrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\srcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\srcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\regionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\dialogflowsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\dialogflowsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\authserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\searchregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\searchregiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\gchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\gchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\response\\dialogflowresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -98,24 +206,8 @@
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\request\\imageuploadrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\iemailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\exceptions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\exceptions\\servicecollectionextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\igchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\igchatservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\regionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\regionserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\imagescontroller .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -154,22 +246,6 @@
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\infrastructure\\data\\walksdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\configs\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\testcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\filters\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\jwtconfigure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\filters\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\filters\\identityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\services\\impl\\tokenserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\services\\impl\\tokenserviceimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -182,10 +258,6 @@
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\request\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\core\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\core\\utils\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\dtos\\response\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dtos\\response\\tokenresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -196,10 +268,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\.env||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\.env||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EE5DAF42-005F-4203-B345-EF61BAC2B7D7}|WebApplication1\\WebApplication1.csproj|c:\\users\\admin\\source\\repos\\improve-net\\webapplication1\\webapplication1\\migrations\\20241014032849_creattbl image of db walk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -221,11 +289,453 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CountryServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\CountryServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\CountryServiceImpl.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\CountryServiceImpl.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\CountryServiceImpl.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:46.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": ".env",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.env",
+              "RelativeDocumentMoniker": "WebApplication1\\.env",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.env",
+              "RelativeToolTip": "WebApplication1\\.env",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAYwBAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-10-14T01:23:44.686Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\appsettings.Development.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-14T01:29:52.579Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ThirdPartyApiController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\ThirdPartyApiController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ThirdPartyApiController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\ThirdPartyApiController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\ThirdPartyApiController.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAADwvycAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:27.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ICountryService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\ICountryService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\ICountryService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\ICountryService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\ICountryService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:51:35.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AgIAAFAAAAAAAAAAAAAwwFwAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:08:50.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RegionsController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\RegionsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RegionsController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\RegionsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\RegionsController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwBwAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T10:14:31.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "RegionServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAYwAcAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:25:53.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ServiceCollectionConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\ServiceCollectionConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\ServiceCollectionConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\ServiceCollectionConfig.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Configs\\ServiceCollectionConfig.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAIA8wBwAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:29:56.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CountryDTO.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\CountryDTO.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\CountryDTO.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\CountryDTO.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\CountryDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:55:55.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ClientConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\ClientConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\ClientConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\ClientConfig.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Configs\\ClientConfig.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBMAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:05:12.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IThirdPartyApiService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IThirdPartyApiService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IThirdPartyApiService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IThirdPartyApiService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IThirdPartyApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:29:59.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ThirdPartyApiServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\ThirdPartyApiServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\ThirdPartyApiServiceImpl.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\ThirdPartyApiServiceImpl.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\ThirdPartyApiServiceImpl.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:30:15.179Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JiraService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\JiraService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\JiraService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\JiraService.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\JiraService.cs",
+              "ViewState": "AgIAADMAAAAAAAAAAAAYwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:02:37.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AuthServiceImpl.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:17:47.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "YourDataType.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\YourDataType.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\YourDataType.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\YourDataType.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\YourDataType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:31:07.131Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "JwtConfigure.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\JwtConfigure.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\JwtConfigure.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\JwtConfigure.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\JwtConfigure.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwGQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:17:14.136Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "GgOAuth2Config.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\GgOAuth2Config.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\GgOAuth2Config.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\GgOAuth2Config.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Configs\\GgOAuth2Config.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:30:55.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFMAAAAAAAAAAAAgwGoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:24:06.372Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T01:44:04.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "TestController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TestController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\TestController.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAhwBoAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:40:12.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ExceptionHandlerMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\ExceptionHandlerMiddleware.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:44:42.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UnauthorizedException.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\UnauthorizedException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\UnauthorizedException.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\UnauthorizedException.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\UnauthorizedException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T07:02:28.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CustomException.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\CustomException.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Middleware\\CustomException.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Middleware\\CustomException.cs",
+              "RelativeToolTip": "WebApplication1\\Middleware\\CustomException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T06:56:11.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "LoggingConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\LoggingConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\LoggingConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\LoggingConfig.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Configs\\LoggingConfig.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T03:48:04.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:42:27.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "SRController.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\SRController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SRController.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\SRController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\SRController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAtwCMAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:13:25.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "IEmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IEmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\IEmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IEmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\IEmailService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:38:15.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "EmailService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\EmailService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\EmailService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\EmailService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\EmailService.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBQAAABuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T07:38:29.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "GChatService.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\GChatService.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\GChatService.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\GChatService.cs",
+              "RelativeToolTip": "WebApplication1\\Services\\Impl\\GChatService.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T06:53:20.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "IdentityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\IdentityConfiguration.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Filters\\IdentityConfiguration.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\IdentityConfiguration.cs",
+              "RelativeToolTip": "WebApplication1\\Filters\\IdentityConfiguration.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:17:05.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:10:27.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeDocumentMoniker": "WebApplication1\\.gitignore",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.gitignore",
+              "RelativeToolTip": "WebApplication1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAG/SURBVDhPrZRNTgIxFMerDIaEhHgU97JxwUKGGaNeQJdyCY0XUBDWGhg4AB\u002BuvQk7OQCRFTP1fXWmMxUMCT94ee177eu/LVQdFK31kTSJ0WgEIa0SMJ2A6QTHcF9iicQqlYpa/6zv2\u002B2HD5nuEkWR/l4udRzHZBtjGzFor1YrPR6P9WKx0MNhpN96vTuZThyLJ1AJLK/iJFFxjBanBsXIozqkWq2qev1c1Wq19063e0ZBwBNP4JaQ6WRC/i8ajQb5wWBAvnxyghpOqQPkC8L5IEEQKjgxaqOTFsCd65tb6nmlkur1\u002BxwXCgX58KfT7QptwvCK52wrSLcJvtUKOABkQ6HFXwbGsmMRBkchzpjNphLZDSrEn5G1qnsp\u002BPEtheloXouRnXDTTjhb5tXmeyg0IgzuliHp\u002By0OANbiOCDXp1IYo3mMUxBT8/mMA/8QhGH6ZzC4Zwi5ZqoQB9M3h62I/\u002B/SAQpniBmtPvdQyGeYUdgyX8pl05eIBSxmTzQYEYbc42AuJQWLGJNQEcrJG4A4BTHneSW2sqfKOyybkxXMPbAvrx3IsyLzkPJFmUcWYtDntjG6lIvnp8cvKXNIlPoFvstpJRlQPIAAAAAASUVORK5CYII=",
+              "WhenOpened": "2024-10-15T02:03:49.782Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "PropertyValueHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Utils\\PropertyValueHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Utils\\PropertyValueHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Utils\\PropertyValueHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Infrastructure\\Utils\\PropertyValueHelper.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T01:37:47.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
               "Title": "WalkController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\WalkController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\WalkController.cs",
@@ -238,79 +748,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DetailRegionResponse.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:05:23.339Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Program.cs",
-              "RelativeToolTip": "WebApplication1\\Program.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAowCoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:08:50.756Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ExcelExportHelper.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
-              "RelativeToolTip": "WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA0wBkAAABWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:05:40.159Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WalkRepository.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
-              "RelativeToolTip": "WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
-              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGIAAAAtAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:50:18.846Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "readme.txt",
-              "DocumentMoniker": "C:\\Users\\admin\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
-              "ToolTip": "C:\\Users\\admin\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
-              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-10-14T09:01:50.505Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "Region.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Entities\\Region.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Core\\Entities\\Region.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Entities\\Region.cs",
-              "RelativeToolTip": "WebApplication1\\Core\\Entities\\Region.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T09:09:01.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 43,
               "Title": "IDialogflowService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IDialogflowService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\IDialogflowService.cs",
@@ -318,36 +756,51 @@
               "RelativeToolTip": "WebApplication1\\Services\\IDialogflowService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:19:05.292Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "WebApplication1\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\appsettings.Development.json",
-              "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACcAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T01:29:52.579Z",
+              "WhenOpened": "2024-10-14T08:19:05.292Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "DetailWalkResponse.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
-              "RelativeToolTip": "WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAjAAAAAAAAAA==",
+              "DocumentIndex": 40,
+              "Title": "Region.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Entities\\Region.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Entities\\Region.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Entities\\Region.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Entities\\Region.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:05:24.719Z"
+              "WhenOpened": "2024-10-14T09:09:01.473Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 42,
+              "Title": "readme.txt",
+              "DocumentMoniker": "C:\\Users\\admin\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
+              "ToolTip": "C:\\Users\\admin\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
+              "RelativeToolTip": "..\\..\\..\\..\\.nuget\\packages\\epplus\\7.4.1\\readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-14T09:01:50.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "WalkRepository.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
+              "RelativeToolTip": "WebApplication1\\Infrastructure\\Repositories\\Impl\\WalkRepository.cs",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGIAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T03:50:18.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
               "Title": "DialogflowService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\DialogflowService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\DialogflowService.cs",
@@ -355,11 +808,51 @@
               "RelativeToolTip": "WebApplication1\\Services\\Impl\\DialogflowService.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAkwCsAAABcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:19:17.809Z"
+              "WhenOpened": "2024-10-14T08:19:17.809Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 37,
+              "Title": "ExcelExportHelper.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
+              "RelativeToolTip": "WebApplication1\\Core\\Utils\\ExcelExportHelper.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwBkAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T09:05:40.159Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "DetailRegionResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\Response\\DetailRegionResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:05:23.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "DetailWalkResponse.cs",
+              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
+              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
+              "RelativeToolTip": "WebApplication1\\DTOs\\Response\\DetailWalkResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T02:05:24.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
               "Title": "ImageModel.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Entities\\ImageModel.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Core\\Entities\\ImageModel.cs",
@@ -367,23 +860,25 @@
               "RelativeToolTip": "WebApplication1\\Core\\Entities\\ImageModel.cs",
               "ViewState": "AgIAAAgAAAAAAAAAAAAAwBEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:21:09.117Z"
+              "WhenOpened": "2024-10-14T03:21:09.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 44,
               "Title": "ChatbotController.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\ChatbotController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ChatbotController.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\ChatbotController.cs",
               "RelativeToolTip": "WebApplication1\\Controllers\\ChatbotController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBYAAABJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAxwBYAAABJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:18:25.702Z"
+              "WhenOpened": "2024-10-14T08:18:25.702Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 45,
               "Title": "QueryResultDTO.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\QueryResultDTO.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\QueryResultDTO.cs",
@@ -391,11 +886,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\QueryResultDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:07:37.557Z"
+              "WhenOpened": "2024-10-14T08:07:37.557Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 46,
               "Title": "DialogflowRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Request\\DialogflowRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Request\\DialogflowRequest.cs",
@@ -403,47 +899,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\Request\\DialogflowRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:07:10.535Z"
+              "WhenOpened": "2024-10-14T08:07:10.535Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "AuthController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\AuthController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\AuthController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:44:04.493Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "SRController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\SRController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\SRController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\SRController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\SRController.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAADwvycAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:13:25.059Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "RegionsController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\RegionsController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\RegionsController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\RegionsController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\RegionsController.cs",
-              "ViewState": "AgIAAD8AAAAAAAAAAAAowEkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-11T10:14:31.512Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 47,
               "Title": "DialogflowSettings.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\DialogflowSettings.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\DialogflowSettings.cs",
@@ -451,23 +912,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\DialogflowSettings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:16:48.74Z"
+              "WhenOpened": "2024-10-14T08:16:48.74Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "AuthServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Impl\\AuthServiceImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:17:47.029Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 48,
               "Title": "SearchRegionDTO.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\SearchRegionDTO.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\SearchRegionDTO.cs",
@@ -475,11 +925,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\SearchRegionDTO.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:16:57.17Z"
+              "WhenOpened": "2024-10-14T08:16:57.17Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 49,
               "Title": "DialogflowResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\DialogflowResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\DialogflowResponse.cs",
@@ -487,11 +938,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\Response\\DialogflowResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T08:07:52.433Z"
+              "WhenOpened": "2024-10-14T08:07:52.433Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 50,
               "Title": "ImageUploadRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Request\\ImageUploadRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Request\\ImageUploadRequest.cs",
@@ -499,59 +951,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\Request\\ImageUploadRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:31:48.381Z"
+              "WhenOpened": "2024-10-14T03:31:48.381Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "GChatService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\GChatService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\GChatService.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\GChatService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Impl\\GChatService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBAAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:20.044Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\EmailService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\EmailService.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\EmailService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Impl\\EmailService.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAowCQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:38:29.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "IEmailService.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IEmailService.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\IEmailService.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IEmailService.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\IEmailService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:38:15.163Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "ServiceCollectionExtensions.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Exceptions\\ServiceCollectionExtensions.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Core\\Exceptions\\ServiceCollectionExtensions.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Exceptions\\ServiceCollectionExtensions.cs",
-              "RelativeToolTip": "WebApplication1\\Core\\Exceptions\\ServiceCollectionExtensions.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwA4AAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:29:56.908Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 51,
               "Title": "IGChatService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IGChatService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\IGChatService.cs",
@@ -559,11 +964,12 @@
               "RelativeToolTip": "WebApplication1\\Services\\IGChatService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T06:53:08.082Z"
+              "WhenOpened": "2024-10-14T06:53:08.082Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 54,
               "Title": "IUploadImgRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\IUploadImgRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repositories\\IUploadImgRepository.cs",
@@ -571,23 +977,12 @@
               "RelativeToolTip": "WebApplication1\\Infrastructure\\Repositories\\IUploadImgRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAYAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:48:29.184Z"
+              "WhenOpened": "2024-10-14T03:48:29.184Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "RegionServiceImpl.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
-              "RelativeToolTip": "WebApplication1\\Services\\Impl\\RegionServiceImpl.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T07:25:53.639Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 52,
               "Title": "ImagesController .cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\ImagesController .cs",
               "RelativeDocumentMoniker": "WebApplication1\\Controllers\\ImagesController .cs",
@@ -595,11 +990,12 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\ImagesController .cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:31:12.362Z"
+              "WhenOpened": "2024-10-14T03:31:12.362Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 57,
               "Title": "IUploadImgService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\IUploadImgService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\IUploadImgService.cs",
@@ -607,35 +1003,38 @@
               "RelativeToolTip": "WebApplication1\\Services\\IUploadImgService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:37:43.241Z"
+              "WhenOpened": "2024-10-14T03:37:43.241Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 53,
               "Title": "UploadImgRepository.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\UploadImgRepository.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Repositories\\Impl\\UploadImgRepository.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Repositories\\Impl\\UploadImgRepository.cs",
               "RelativeToolTip": "WebApplication1\\Infrastructure\\Repositories\\Impl\\UploadImgRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAA7wCUAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCUAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:48:46.117Z"
+              "WhenOpened": "2024-10-14T03:48:46.117Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 55,
               "Title": "UploadImgServiceImpl.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\UploadImgServiceImpl.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\UploadImgServiceImpl.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\UploadImgServiceImpl.cs",
               "RelativeToolTip": "WebApplication1\\Services\\Impl\\UploadImgServiceImpl.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAzwBwAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:38:17.935Z"
+              "WhenOpened": "2024-10-14T03:38:17.935Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
+              "DocumentIndex": 56,
               "Title": "logoC#.png - PNG [1024x384, 32 bit, PNG]",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\ImageUp\\logoC#.png",
               "RelativeDocumentMoniker": "WebApplication1\\ImageUp\\logoC#.png",
@@ -647,7 +1046,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 35,
+              "DocumentIndex": 58,
               "Title": "WebApplication1.csproj",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\WebApplication1.csproj",
               "RelativeDocumentMoniker": "WebApplication1\\WebApplication1.csproj",
@@ -655,11 +1054,12 @@
               "RelativeToolTip": "WebApplication1\\WebApplication1.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-14T03:57:40.237Z"
+              "WhenOpened": "2024-10-14T03:57:40.237Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 67,
               "Title": "20241014032849_CreatTbl Image of DB Walk.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Migrations\\20241014032849_CreatTbl Image of DB Walk.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241014032849_CreatTbl Image of DB Walk.cs",
@@ -667,83 +1067,38 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20241014032849_CreatTbl Image of DB Walk.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAARAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T03:28:49.563Z"
+              "WhenOpened": "2024-10-14T03:28:49.563Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "IdentityConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\IdentityConfiguration.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Filters\\IdentityConfiguration.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\IdentityConfiguration.cs",
-              "RelativeToolTip": "WebApplication1\\Filters\\IdentityConfiguration.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:17:05.352Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "JwtConfigure.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\JwtConfigure.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Filters\\JwtConfigure.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Filters\\JwtConfigure.cs",
-              "RelativeToolTip": "WebApplication1\\Filters\\JwtConfigure.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB8AAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:17:14.136Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "TestController.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\TestController.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Controllers\\TestController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\TestController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvw0AAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:40:12.517Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 59,
               "Title": "readme.md",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\readme.md",
               "RelativeDocumentMoniker": "WebApplication1\\readme.md",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\readme.md",
               "RelativeToolTip": "WebApplication1\\readme.md",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAIBJwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-10-14T01:31:20.479Z"
+              "WhenOpened": "2024-10-14T01:31:20.479Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 60,
               "Title": "WalksDbContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Data\\WalksDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Data\\WalksDbContext.cs",
               "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Data\\WalksDbContext.cs",
               "RelativeToolTip": "WebApplication1\\Infrastructure\\Data\\WalksDbContext.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAiwAsAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA4wAsAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:34:41.539Z"
+              "WhenOpened": "2024-10-14T01:34:41.539Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "SwaggerConfig.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
-              "RelativeToolTip": "WebApplication1\\Core\\Configs\\SwaggerConfig.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAuwAkAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:42:27.49Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 61,
               "Title": "TokenServiceImpl.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\Impl\\TokenServiceImpl.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\Impl\\TokenServiceImpl.cs",
@@ -751,11 +1106,12 @@
               "RelativeToolTip": "WebApplication1\\Services\\Impl\\TokenServiceImpl.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAABHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:01:00.039Z"
+              "WhenOpened": "2024-10-14T02:01:00.039Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 62,
               "Title": "ITokenService.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Services\\ITokenService.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Services\\ITokenService.cs",
@@ -763,11 +1119,12 @@
               "RelativeToolTip": "WebApplication1\\Services\\ITokenService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAcAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:00:14.656Z"
+              "WhenOpened": "2024-10-14T02:00:14.656Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 63,
               "Title": "LoginRequest.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Request\\LoginRequest.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Request\\LoginRequest.cs",
@@ -775,23 +1132,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\Request\\LoginRequest.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:52:36.513Z"
+              "WhenOpened": "2024-10-14T01:52:36.513Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "EncryptionHelper.cs",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
-              "RelativeToolTip": "WebApplication1\\Core\\Utils\\EncryptionHelper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA2AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:10:27.8Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 64,
               "Title": "TokenResponse.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\DTOs\\Response\\TokenResponse.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DTOs\\Response\\TokenResponse.cs",
@@ -799,11 +1145,12 @@
               "RelativeToolTip": "WebApplication1\\DTOs\\Response\\TokenResponse.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T02:05:12.21Z"
+              "WhenOpened": "2024-10-14T02:05:12.21Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 68,
               "Title": "20241014013646_CreatingWalkDatabaseCompany.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Migrations\\20241014013646_CreatingWalkDatabaseCompany.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20241014013646_CreatingWalkDatabaseCompany.cs",
@@ -811,11 +1158,12 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\20241014013646_CreatingWalkDatabaseCompany.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:36:46.207Z"
+              "WhenOpened": "2024-10-14T01:36:46.207Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 65,
               "Title": "AuthWalksDbContext.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Infrastructure\\Data\\AuthWalksDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Infrastructure\\Data\\AuthWalksDbContext.cs",
@@ -823,11 +1171,12 @@
               "RelativeToolTip": "WebApplication1\\Infrastructure\\Data\\AuthWalksDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:34:46.154Z"
+              "WhenOpened": "2024-10-14T01:34:46.154Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 69,
               "Title": "20241014013239_CreatingAuthDatabaseCompany.cs",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\Migrations\\AuthWalksDb\\20241014013239_CreatingAuthDatabaseCompany.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Migrations\\AuthWalksDb\\20241014013239_CreatingAuthDatabaseCompany.cs",
@@ -835,11 +1184,12 @@
               "RelativeToolTip": "WebApplication1\\Migrations\\AuthWalksDb\\20241014013239_CreatingAuthDatabaseCompany.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-14T01:32:39.93Z"
+              "WhenOpened": "2024-10-14T01:32:39.93Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 66,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\appsettings.json",
               "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
@@ -847,19 +1197,8 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-14T01:29:50.055Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": ".env",
-              "DocumentMoniker": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.env",
-              "RelativeDocumentMoniker": "WebApplication1\\.env",
-              "ToolTip": "C:\\Users\\admin\\source\\repos\\improve-NET\\WebApplication1\\WebApplication1\\.env",
-              "RelativeToolTip": "WebApplication1\\.env",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-14T01:23:44.686Z"
+              "WhenOpened": "2024-10-14T01:29:50.055Z",
+              "EditorCaption": ""
             }
           ]
         }
