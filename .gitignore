@@ -227,5 +227,3 @@ nCrunchTemp_*
 # Built Visual Studio Code Extensions
 *.vsix
 
-# Ignore the entire WebApplication1 directory
-WebApplication1/
