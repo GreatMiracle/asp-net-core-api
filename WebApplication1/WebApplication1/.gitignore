@@ -44,8 +44,6 @@ _ReSharper*/
 # TeamCity
 _TeamCity*
 
-
-
 # DotCover
 *.dotCover
 
@@ -228,20 +226,3 @@ nCrunchTemp_*
 
 # Built Visual Studio Code Extensions
 *.vsix
-
-# Ignore specific file types in WebApplication1
-WebApplication1/**/*.suo
-WebApplication1/**/*.user
-WebApplication1/**/*.userosscache
-WebApplication1/**/*.pfx
-WebApplication1/**/*.key
-WebApplication1/**/*.pem
-WebApplication1/**/*.cer
-WebApplication1/**/*.pvk
-WebApplication1/**/*.log
-WebApplication1/**/*.tmp
-
-# Ignore build results in WebApplication1
-WebApplication1/*/bin/
-WebApplication1/*/obj/
-

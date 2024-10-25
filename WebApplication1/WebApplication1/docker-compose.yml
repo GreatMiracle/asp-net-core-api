@@ -1,0 +1,25 @@
+version: '3.8'
+services:
+  db:
+    container_name: db
+    image: postgres:15-alpine
+    restart: always
+    environment:
+      - POSTGRES_USER=simple_bank
+      - POSTGRES_PASSWORD=123456a@
+    ports:
+      - '5433:5432'
+    volumes:
+      - db:/var/lib/postgresql/data
+    networks:
+      - golang-simple-bank
+
+
+volumes:
+  db:
+    driver: local
+
+networks:
+  golang-simple-bank:
+    name: golang-simple-bank
+    external: true
